@@ -3,7 +3,7 @@
 
 This project implements a Deep Q-Network (DQN) trading agent trained in multiple market environments using `gym-anytrading`. The agent learns to make Buy and Sell decisions based on historical stock and forex price data.
 
-## 📈 Features
+# Features
 
 - Trains using DQN and PyTorch
 - Multiple environments (Google stocks, Forex EURUSD)
