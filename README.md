@@ -18,7 +18,7 @@ python main_training_loop.py
 
 python main_test_loop.py
 
-### Final Results and Conclusions
+# Final Results and Conclusions
 
 After training the agent with various market segments and datasets for over 90,000 episodes, we observed that while the agent was able to develop basic trading behaviors, the overall performance remained limited — in some cases only performing buy actions, or achieving a final profit below break-even.
 
